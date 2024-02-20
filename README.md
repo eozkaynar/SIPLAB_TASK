@@ -12,4 +12,4 @@ Prediction: Split the dataset into training and testing sets, create linear regr
 Evaluation: Evaluate the performance of the models by calculating correlation coefficients between predicted and actual blood pressure values.
 
 ## Peak Detection
-<img src="./Images/100.png" width="1000">
+<img src="peak_detection" width="1000">
